@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1kyGnrjyTSn-u01DnL-WEkooyKMplOTs_
 """
 
-!pip install datasets
-!pip install nltk
-
 import pandas as pd
 import numpy as np
 import re
